@@ -26,5 +26,5 @@ Date | Day   | City, Country          | Event
 
 Date | Day   | City, Country          | Event
 ---- | ----- | ---------------------- | -----
-7-10|Wed-Fri|Baltimore, MD, USA|[Neurobiology of Language](https://neurolang.org)
-11-15|Sat-Wed|Washington DC, USA|[Society for Neuroscience](https://sfn.org)
+7-10|Wed-Fri|Baltimore, MD, USA|[Neurobiology of Language](https://www.neurolang.org)
+11-15|Sat-Wed|Washington DC, USA|[Society for Neuroscience](https://www.sfn.org/annual-meeting/neuroscience-2017/sessions-and-events/preliminary-program)
