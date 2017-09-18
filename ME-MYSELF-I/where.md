@@ -13,6 +13,7 @@ This file is a big list of dates so you can track where Kevin is.
 ### September 2017
 
 Date | Day   | City, Country          | Event
+---- | ----- | ---------------------- | -----
 3-9|Sun-Sat|Seattle, USA|[Neurohackweek](https://neurohackweek.github.io/nhw2017/)
 
 ### October 2017
