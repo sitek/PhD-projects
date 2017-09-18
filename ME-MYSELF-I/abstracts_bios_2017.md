@@ -22,24 +22,28 @@ impaired in emotional processing disorders such as major depressive disorder. In
 often observe speech production patterns to help diagnose specific symptoms, and machine learning
 algorithms are able to detect the severity of a speaker’s depression with only the acoustic features of
 speech.
+
 We sought to understand the relationship between depression, affect, and speech. Using functional
 MRI, we investigated how individuals with and without depression produce implicitly emotional speech.
 We found that, when producing speech with emotional content, brain regions involved in speech
 production as well as medial prefrontal areas associated with emotional processing were more active.
 However, depressed participants activated regions of the canonical speech network more strongly than
 non-depressed participants.
+
 Within the depressed participant group, depression severity was strongly related to activation in the
 right anterior insula when producing implicitly sad speech. This region has previously been implicated in
 both depression and speech processing: activation in the right insula is highly correlated with
 depression symptom severity in general, and activation and connectivity patterns during speech
 processing suggest it may serve as a hub between higher level cognitive processing and linguistic and
 motor speech planning, particularly with respect to prosody (for review, see Oh et al. 2014).
+
 We also examined the effective connectivity between networks while performing the speech production
 task. In non-depressed participants, a seed in the amygdala (involved in both limbic processing and
 internal state representations) was less correlated with bilateral inferior frontal gyri (IFG, including
 “Broca’s area” in the left hemisphere) and anterior insulae during speech production. Depressed
 participants showed even stronger anticorrelations between the amygdala and the right IFG and insula,
 extending into sensorimotor cortex.
+
 These results suggest that internal state representations, which are overactive in major depressive
 disorder, must be inhibited in order to produce speech. Indeed, the right insula, which plays a crucial
 role in both depression and speech processing, is uniquely situated to modulate speech production in
