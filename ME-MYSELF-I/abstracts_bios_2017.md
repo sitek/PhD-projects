@@ -6,9 +6,9 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 
 ### Table of Contents
 
-* [SMC17](#smc17)
-* [SNL](#snl17)
-* [SfN](#sfn17)
+* [Speech Motor Control](#smc17)
+* [Society for the Neurobiology of Language](#snl)
+* [Society for Neuroscience](#sfn)
 
 ### SMC17
 
