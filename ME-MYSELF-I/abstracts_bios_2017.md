@@ -7,6 +7,8 @@ They're ordered by date of presentation so ideally they're a little easier to fi
 ### Table of Contents
 
 * [SMC17](#smc17)
+* [SNL](#snl17)
+* [SfN](#sfn17)
 
 ### SMC17
 
@@ -50,6 +52,24 @@ role in both depression and speech processing, is uniquely situated to modulate 
 depression. Overall, our findings suggest a strong coupling between limbic and speech production
 networks in major depressive disorder.
 
-**Bio**:
-
 **Poster**: https://figshare.com/s/2c7599846cf9ab42bb81
+
+### SNL
+
+**Date**: 8-10 November 2017
+
+**Website**: [Society for the Neurobiology of Language](http://www.neurolang.org)
+
+**Abstract**:
+
+**Poster**: [to be posted]
+
+### SfN
+
+**Date**: 11-15 November 2017
+
+**Website**: [Society for Neuroscience](http://www.sfn.org)
+
+**Abstract**:
+
+**Poster**: [to be posted]
