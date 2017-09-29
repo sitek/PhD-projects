@@ -6,38 +6,36 @@
 
 #### Who did you help this week?
 
-Replace this text with a one/two sentence description of who you helped this week and how.
+I talked with Nick about his CMRO2 data and will be helping him analyze those when he's done with processing. This is a reanalysis from a previous version.
 
 #### Who helped you this week?
 
-Replace this text with a one/two sentence description of who helped you this week and how.
+Jakub helped look for info about reorienting an image and about ITK-SNAP.
 
 #### What did you achieve?
 
-* Replace this text with a bullet point list of what you achieved this week.
-* It's ok if your list is only one bullet point long!
+* imported and updated this repository for updates
+* learned basics of ITK-SNAP and used it to start segmenting ex vivo GRE data
 
 #### What did you struggle with?
 
-* Replace this text with a bullet point list of where you struggled this week.
-* It's ok if your list is only one bullet point long!
+* reorienting the GRE image into the orientation of the diffusion image
 
 #### What would you like to work on next week?
 
-* Replace this text with a bullet point list of what you would like to work on next week.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* subnuclei definitions on the GRE image
+* run dipy reconstruction on the ex vivo data
+* Harvard Horizons application
+* continue outlining dissertation proposal
+* decide on clinical data for tractography portion (meeting at MEE)
 
-#### Where do you need help from Kirstie?
+#### Where do you need help from Satra?
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* GRE orientation issues (can't overlay/warp to diffusion until rotated)
 
 #### Any other topics
 
-This space is yours to add to as needed.
-
+Let me know if you hear back from Jon!
 
 ---
 
@@ -70,7 +68,7 @@ Replace this text with a one/two sentence description of who helped you this wee
 * It's ok if your list is only one bullet point long!
 * Try to estimate how long each task will take.
 
-#### Where do you need help from Kirstie?
+#### Where do you need help from Satra?
 
 * Replace this text with a bullet point list of what you need help from Kirstie on.
 * It's ok if your list is only one bullet point long!
