@@ -7,36 +7,37 @@
 
 #### Who did you help this week?
 
-I talked with Nick about his CMRO2 data and will be helping him analyze those when he's done with processing. This is a reanalysis from a previous version.
-
 #### Who helped you this week?
 
-Jakub helped look for info about reorienting an image and about ITK-SNAP.
+Satra helped with registering GRE and DWI images in ANTs (still running). Jakub continued helping get DSI Studio to run in a container on openmind to help with memory resources, high resolution images.
 
 #### What did you achieve?
 
-* imported and updated this repository for updates
-* learned basics of ITK-SNAP and used it to start segmenting ex vivo GRE data
+* made presentations summarizing projects
 
 #### What did you struggle with?
 
-* reorienting the GRE image into the orientation of the diffusion image
+* reorienting the GRE image into the orientation of the diffusion image (again)
+* dipy on ex vivo data - openmind resources issues, then tracking issues once it ran
+* registering subcortical atlas to whole brains for HCP diffusion seeds
 
 #### What would you like to work on next week?
 
-* subnuclei definitions on the GRE image
+* subnuclei definitions on the GRE image, especially CN
 * run dipy reconstruction on the ex vivo data
+* run dipy reconstruction on HCP data (with gross spherical seeds to start)
 * Harvard Horizons application
+* SHBT 25th Anniversary poster
 * continue outlining dissertation proposal
-* decide on clinical data for tractography portion (meeting at MEE)
+* clinical application - determine data, think about preregistration
 
 #### Where do you need help from Satra?
 
-* GRE orientation issues (can't overlay/warp to diffusion until rotated)
+* perhaps dipy with ex vivo, if I still can't figure out what's going wrong
+* thoughts on SHBT poster
 
 #### Any other topics
 
-Let me know if you hear back from Jon!
 
 ### Date: 22 September 2017
 
