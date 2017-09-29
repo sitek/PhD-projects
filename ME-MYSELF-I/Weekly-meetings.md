@@ -1,6 +1,42 @@
 # Weekly Meetings
 
 * [22 September 2017](#date-22-september-2017)
+* [29 September 2017](#date-29-september-2017)
+
+### Date: 29 September 2017
+
+#### Who did you help this week?
+
+I talked with Nick about his CMRO2 data and will be helping him analyze those when he's done with processing. This is a reanalysis from a previous version.
+
+#### Who helped you this week?
+
+Jakub helped look for info about reorienting an image and about ITK-SNAP.
+
+#### What did you achieve?
+
+* imported and updated this repository for updates
+* learned basics of ITK-SNAP and used it to start segmenting ex vivo GRE data
+
+#### What did you struggle with?
+
+* reorienting the GRE image into the orientation of the diffusion image
+
+#### What would you like to work on next week?
+
+* subnuclei definitions on the GRE image
+* run dipy reconstruction on the ex vivo data
+* Harvard Horizons application
+* continue outlining dissertation proposal
+* decide on clinical data for tractography portion (meeting at MEE)
+
+#### Where do you need help from Satra?
+
+* GRE orientation issues (can't overlay/warp to diffusion until rotated)
+
+#### Any other topics
+
+Let me know if you hear back from Jon!
 
 ### Date: 22 September 2017
 
