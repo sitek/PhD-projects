@@ -34,9 +34,8 @@ Helped Nick with functional parcellation of CMRO2 data + grabbing atlas labels f
 
 #### Where do you need help from Satra?
 
-* Replace this text with a bullet point list of what you need help from Kirstie on.
-* It's ok if your list is only one bullet point long!
-* Try to estimate how long each task will take.
+* probably ANTs help registering the ex vivo images
+* feedback on SNL poster (once new data/figures ready)
 
 #### Any other topics
 
