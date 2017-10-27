@@ -1,6 +1,43 @@
 # Weekly Meetings
 
 * [22 September 2017](#date-22-september-2017)
+* [29 September 2017](#date-29-september-2017)
+
+### Date: 29 September 2017
+
+#### Who did you help this week?
+
+#### Who helped you this week?
+
+Satra helped with registering GRE and DWI images in ANTs (still running). Jakub continued helping get DSI Studio to run in a container on openmind to help with memory resources, high resolution images.
+
+#### What did you achieve?
+
+* made presentations summarizing projects
+
+#### What did you struggle with?
+
+* reorienting the GRE image into the orientation of the diffusion image (again)
+* dipy on ex vivo data - openmind resources issues, then tracking issues once it ran
+* registering subcortical atlas to whole brains for HCP diffusion seeds
+
+#### What would you like to work on next week?
+
+* subnuclei definitions on the GRE image, especially CN
+* run dipy reconstruction on the ex vivo data
+* run dipy reconstruction on HCP data (with gross spherical seeds to start)
+* Harvard Horizons application
+* SHBT 25th Anniversary poster
+* continue outlining dissertation proposal
+* clinical application - determine data, think about preregistration
+
+#### Where do you need help from Satra?
+
+* perhaps dipy with ex vivo, if I still can't figure out what's going wrong
+* thoughts on SHBT poster
+
+#### Any other topics
+
 
 ### Date: 22 September 2017
 
