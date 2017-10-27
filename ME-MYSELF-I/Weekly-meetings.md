@@ -2,6 +2,46 @@
 
 * [22 September 2017](#date-22-september-2017)
 * [29 September 2017](#date-29-september-2017)
+* [27 October 2017](#date-27-october-2017)
+
+### Date: 27 October 2017
+
+#### Who did you help this week?
+
+Helped Nick with functional parcellation of CMRO2 data + grabbing atlas labels for each parcel based on CoM.
+
+#### Who helped you this week?
+
+@satra helped define goals and task priorities at our meeting 10/24 & also connected with collaborators for setting up helpful meetings
+
+#### What did you achieve?
+
+* wrote a python/pandas script to grab label names from an atlas (via `whereami`) for functional parcellation
+* outlined PhD goals/plan
+
+#### What did you struggle with?
+
+* still having issues registering ex vivo images
+* still having issues with tractography outside of DSI Studio for these data
+
+#### What would you like to work on next week?
+
+* SNL poster: decide what changes from SMC poster (add DWI? Greg's acoustics?)
+* SNL poster: update resting state images
+* SNL poster: update subject lists, analysis
+* ex vivo registration
+* ex vivo tractography outside DSI Studio
+
+#### Where do you need help from Satra?
+
+* Replace this text with a bullet point list of what you need help from Kirstie on.
+* It's ok if your list is only one bullet point long!
+* Try to estimate how long each task will take.
+
+#### Any other topics
+
+
+---
 
 ### Date: 29 September 2017
 
@@ -38,6 +78,7 @@ Satra helped with registering GRE and DWI images in ANTs (still running). Jakub 
 
 #### Any other topics
 
+---
 
 ### Date: 22 September 2017
 
