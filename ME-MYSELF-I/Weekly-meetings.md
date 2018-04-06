@@ -3,6 +3,45 @@
 * [22 September 2017](#date-22-september-2017)
 * [29 September 2017](#date-29-september-2017)
 * [27 October 2017](#date-27-october-2017)
+* [05 January 2018](#date-05-january-2018)
+
+### Date: 05 January 2018
+
+#### Who did you help this week?
+Helped Nick create 3D surface images for his CMRO2 paper.
+
+#### Who helped you this week?
+* Mathias helped with fmriprep for 7T data
+* Jakub helped with X display issues for visualization
+
+#### What did you achieve?
+Catching back up after the break - some work from previous month or so:
+* processed ex vivo diffusion data in dipy
+* ran at multiple resampled resolutions
+* currently implementing target-based tractography
+* registered downsampled anatomical image to DWI; working on full res
+* contacted/confirmed 2 members of DAC
+
+#### What did you struggle with?
+
+* applying hires-DWI transformation (based on downsampled hi res) to full res anat image
+* completing fmriprep of 7T data, particularly applying field maps
+
+#### What would you like to work on next week?
+
+* finish target-based tractography in dipy
+* anatomical definitions on (transformed) hi res data
+* manuscript: methods, background
+* submit Harvard travel award final paperwork (due 1/11)
+
+#### Where do you need help from Satra?
+
+* planning/prepping for DAC meeting
+* applying downsampled transform to full res anatomical data (if not resolved)
+
+#### Any other topics
+
+---
 
 ### Date: 27 October 2017
 
