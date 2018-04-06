@@ -4,6 +4,47 @@
 * [29 September 2017](#date-29-september-2017)
 * [27 October 2017](#date-27-october-2017)
 * [05 January 2018](#date-05-january-2018)
+* [06 April 2018](#date-06-april-2018)
+
+### Date: 06 April 2018
+
+#### Who did you help this week?
+
+
+#### Who helped you this week?
+
+* Jakub & Mathias helped with Python and openmind questions
+* neuroimaging listserve helped with dipy tractography streamline filtering
+
+#### What did you achieve?
+
+* clustering diffusion image based on spherical harmonics
+* posted dipy streamline issue on neurostars, neuroimaging group
+* implemented potential streamline filter fix, still waiting on output
+* filled in some of manuscript outline
+* transformed existing atlas to diffusion space
+
+#### What did you struggle with?
+
+* dipy streamline filtering - still haven't resolved issue
+* running full resolution tractography on openmind - keeps getting preempted
+
+#### What would you like to work on next week?
+
+* resolve streamline filtering issue
+* clean up atlas segmentations
+* finish manuscript
+* resolve summer research logistics
+* grab & look at new clinical MEE data
+
+#### Where do you need help from Satra?
+
+* still haven't heard back from Jon - will email again, but may need help getting in touch with him
+
+#### Any other topics
+
+just plugging away...
+
 
 ### Date: 05 January 2018
 
